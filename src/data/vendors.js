@@ -1,8 +1,8 @@
 const vendors = [
   {
-    id: "my-restaurant",
-    name: "Your Restaurant Name",
-    location: "Mahallah ..., Block ...",
+    id: "kafe-siddiq",
+    name: "Kafe Mahallah Siddiq",
+    location: "Mahallah Siddiq, Block A, Ground Floor",
     openHours: "7:00 am - 10:00 pm",
     isOpen: true,
     menu: [
