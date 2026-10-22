@@ -11,3 +11,7 @@ It allows you to group a list of children without adding extra DOM nodes to the 
 
 4. Name one benefit of splitting the UI into small components.
 Main benefit is its reusability. Writing it as a small component so that it could be resused across multiple parts of the application.
+
+# Week 2 Reflection
+
+# Week 3 Reflection

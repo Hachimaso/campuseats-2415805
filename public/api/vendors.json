@@ -1,0 +1,340 @@
+[
+  {
+    "id": "2416464-kopi-dahlia",
+    "name": "Kopi Dahlia",
+    "location": "Mahallah Asma, Block C",
+    "openHours": "8:00 am - 11:00 pm",
+    "isOpen": true,
+    "menu": [
+      {
+        "id": "2416464-m1",
+        "name": "Teh Tarik",
+        "price": 2.5,
+        "category": "Drinks",
+        "popular": true
+      }
+    ]
+  },
+  {
+    "id": "2416465-kafe-ali",
+    "name": "Kafe Mahallah Ali",
+    "location": "Mahallah Ali, Block C",
+    "openHours": "7:00 am - 10:00 pm",
+    "isOpen": true,
+    "menu": [
+      {
+        "id": "2416465-a1",
+        "name": "Nasi Lemak Ayam",
+        "description": "...",
+        "price": 7.5,
+        "category": "Rice",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "2415805-kafe-siddiq",
+    "name": "Kafe Mahallah Siddiq",
+    "location": "Mahallah Siddiq, Block C",
+    "openHours": "7:00 am - 10:00 pm",
+    "isOpen": true,
+    "menu": [
+      {
+        "id": "2415805-s1",
+        "name": "Nasi Goreng Kampung",
+        "description": "...",
+        "price": 6.5,
+        "category": "Rice",
+        "available": true
+      },
+      {
+        "id": "2415805-s2-Naz",
+        "name": "Naz's Nasi Ayam Special",
+        "price": 8.5,
+        "category": "Rice",
+        "popular": true,
+        "special": true,
+        "available": true
+      },
+      {
+        "id": "2415805-s3",
+        "name": "Nasi Goreng Pattaya",
+        "description": "...",
+        "price": 7,
+        "category": "Rice",
+        "available": true
+      },
+      {
+        "id": "2415805-a1",
+        "name": "Ice Lemon Tea",
+        "description": "...",
+        "price": 2,
+        "category": "Drinks",
+        "available": true
+      },
+      {
+        "id": "2415805-a2",
+        "name": "Rootbeer Float",
+        "description": "Macam A&W",
+        "price": 3.5,
+        "category": "Drinks",
+        "available": true
+      },
+      {
+        "id": "2415805-a3",
+        "name": "Iced Coffee",
+        "description": "...",
+        "price": 2,
+        "category": "Drinks",
+        "available": true
+      },
+      {
+        "id": "2415805-m1",
+        "name": "Mee Tarik",
+        "description": "...",
+        "price": 6.5,
+        "category": "Noodles",
+        "available": true
+      },
+      {
+        "id": "2415805-m2",
+        "name": "Mee Goreng Mamak",
+        "description": "...",
+        "price": 6,
+        "category": "Noodles",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "2410997-Aro-Cafe",
+    "name": "Aro Cafe",
+    "location": "HS Building, Ground Floor",
+    "openHours": "7:00 am - 10:00 pm",
+    "isOpen": true,
+    "menu": [
+      {
+        "id": "2410997-s1",
+        "name": "Thunder Hot Burger",
+        "description": "Burger in a bun with special sauce",
+        "price": 7.5,
+        "category": "Burgers",
+        "available": true
+      },
+      {
+        "id": "2410997-s2",
+        "name": "Double Thunder Burger",
+        "description": "Burger in a bun with double patty and special sauce",
+        "price": 9.5,
+        "category": "Burgers",
+        "available": true
+      },
+      {
+        "id": "2410997-s3",
+        "name": "Triple Thunder Burger",
+        "description": "Burger in a bun with triple patty and special sauce",
+        "price": 12,
+        "category": "Burgers",
+        "available": true
+      },
+      {
+        "id": "2410997-s4",
+        "name": "Happy Aro Jr set",
+        "description": "normal cheeseburger, selected soft drink ,fries and a toy",
+        "price": 8.5,
+        "category": "Meals Set",
+        "available": false
+      },
+      {
+        "id": "2410997-s5",
+        "name": "Trio Flaming Tenders",
+        "description": "3 pieces of Chicken Tenders with spicy flake",
+        "price": 6,
+        "category": "Chicken",
+        "available": true
+      },
+      {
+        "id": "2410997-s6",
+        "name": "2pc Mr Chicken",
+        "description": "2 pieces of Mr Chicken ",
+        "price": 9,
+        "category": "Chicken",
+        "available": true
+      },
+      {
+        "id": "2410997-s7",
+        "name": "Soda",
+        "description": "normal soft drinks",
+        "price": 2.5,
+        "category": "Drinks",
+        "available": false
+      },
+
+      {
+        "id": "2410997-s8",
+        "name": "Milo",
+        "description": "Chocolate malted drink",
+        "price": 3,
+        "category": "Drinks",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "2413081-eaq-restaurant",
+    "name": "EAQ Restaurant",
+    "location": "Mahallah EAQ, Block Q",
+    "openHours": "7:00 am - 10:00 pm",
+    "isOpen": true,
+    "menu": [
+      {
+        "id": "2413081-eaq-m1",
+        "name": "Nasi Lemak Ayam",
+        "price": 7.5,
+        "category": "Rice",
+        "popular": true
+      },
+      {
+        "id": "2413081-eaq-m2",
+        "name": "Nasi Goreng Kampung",
+        "price": 6.5,
+        "category": "Rice",
+        "popular": true,
+        "available": true
+      },
+      {
+        "id": "2413081-eaq-m3",
+        "name": "Chicken Rice",
+        "price": 7,
+        "category": "Rice",
+        "popular": false,
+        "available": true
+      },
+      {
+        "id": "2413081-eaq-m4",
+        "name": "Mee Goreng",
+        "price": 6,
+        "category": "Noodles",
+        "popular": true,
+        "available": true
+      },
+      {
+        "id": "2413081-eaq-m5",
+        "name": "Kuey Teow Goreng",
+        "price": 6.5,
+        "category": "Noodles",
+        "popular": false,
+        "available": true
+      },
+      {
+        "id": "2413081-eaq-m6",
+        "name": "Maggi Goreng",
+        "price": 5.5,
+        "category": "Noodles",
+        "popular": false
+      },
+      {
+        "id": "2413081-eaq-m7",
+        "name": "Teh Tarik",
+        "price": 2.5,
+        "category": "Drinks",
+        "popular": true
+      },
+      {
+        "id": "2413081-eaq-m8",
+        "name": "Iced Lemon Tea",
+        "price": 3,
+        "category": "Drinks",
+        "popular": false
+      },
+      {
+        "id": "2413081-eaq-m9",
+        "name": "Milo Ais",
+        "price": 3.5,
+        "category": "Drinks",
+        "popular": true
+      }
+    ]
+  },
+  {
+    "id": "2412663-faiz-cafe",
+    "name": "FAIZ CAFE",
+    "location": "Mahallah Bilal, Block A",
+    "openHours": "7:00 am - 10:00 pm",
+    "isOpen": true,
+    "menu": [
+      {
+        "id": "2412663-faiz-01",
+        "name": "Nasi Kerabu Ayam Percik",
+        "description": "Blue herb rice with grilled chicken, fresh vegetables and percik sauce",
+        "price": 9.5,
+        "category": "Rice",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-02",
+        "name": "Nasi Daging Salai Masak Lemak",
+        "description": "Rice with smoked beef in a creamy turmeric and chilli gravy",
+        "price": 11,
+        "category": "Rice",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-03",
+        "name": "Nasi Goreng Kampung",
+        "description": "Spicy fried rice with anchovies, long beans and a fried egg",
+        "price": 7.5,
+        "category": "Rice",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-04",
+        "name": "Mee Kari Ayam",
+        "description": "Yellow noodles with chicken, tofu and vegetables in curry broth",
+        "price": 8,
+        "category": "Noodles",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-05",
+        "name": "Char Kuey Teow Kerang",
+        "description": "Wok-fried flat noodles with cockles, egg and bean sprouts",
+        "price": 8.5,
+        "category": "Noodles",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-06",
+        "name": "Bihun Sup Utara",
+        "description": "Rice vermicelli in a clear beef broth with herbs and lime",
+        "price": 7,
+        "category": "Noodles",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-07",
+        "name": "Teh Ais Limau",
+        "description": "Iced tea with fresh lime",
+        "price": 2.5,
+        "category": "Drinks",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-08",
+        "name": "Sirap Selasih",
+        "description": "Chilled rose syrup drink with basil seeds",
+        "price": 2.8,
+        "category": "Drinks",
+        "available": true
+      },
+      {
+        "id": "2412663-faiz-09",
+        "name": "Kopi O Ais",
+        "description": "Iced black coffee",
+        "price": 2.2,
+        "category": "Drinks",
+        "available": true
+      }
+    ]
+  }
+]
