@@ -1,22 +1,6 @@
 [
   {
-    "id": "2416464-kopi-dahlia",
-    "name": "Kopi Dahlia",
-    "location": "Mahallah Asma, Block C",
-    "openHours": "8:00 am - 11:00 pm",
-    "isOpen": true,
-    "menu": [
-      {
-        "id": "2416464-m1",
-        "name": "Teh Tarik",
-        "price": 2.5,
-        "category": "Drinks",
-        "popular": true
-      }
-    ]
-  },
-  {
-    "id": "2416465-kafe-ali",
+    "id": "2416465",
     "name": "Kafe Mahallah Ali",
     "location": "Mahallah Ali, Block C",
     "openHours": "7:00 am - 10:00 pm",
@@ -33,7 +17,7 @@
     ]
   },
   {
-    "id": "2415805-kafe-siddiq",
+    "id": "2415805",
     "name": "Kafe Mahallah Siddiq",
     "location": "Mahallah Siddiq, Block C",
     "openHours": "7:00 am - 10:00 pm",
@@ -107,7 +91,7 @@
     ]
   },
   {
-    "id": "2410997-Aro-Cafe",
+    "id": "2410997",
     "name": "Aro Cafe",
     "location": "HS Building, Ground Floor",
     "openHours": "7:00 am - 10:00 pm",
@@ -181,7 +165,7 @@
     ]
   },
   {
-    "id": "2413081-eaq-restaurant",
+    "id": "2413081",
     "name": "EAQ Restaurant",
     "location": "Mahallah EAQ, Block Q",
     "openHours": "7:00 am - 10:00 pm",
@@ -257,7 +241,7 @@
     ]
   },
   {
-    "id": "2412663-faiz-cafe",
+    "id": "2412663",
     "name": "FAIZ CAFE",
     "location": "Mahallah Bilal, Block A",
     "openHours": "7:00 am - 10:00 pm",

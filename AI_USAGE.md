@@ -18,7 +18,15 @@ Add a new section every week, before you tag. Did not use AI? Write "None" under
 - One thing the AI got wrong and how I fixed it:
 
 ## Week 3
+
 - Tool(s): Gemini
 - What I asked for: to find a problem with my code and website error and ask for suggestions
 - What I kept: Its suggestion to create a new .jsx file for my personal feature
 - What I changed: The way my code is formatted, written
+
+## Week 4
+
+- Tool(s): Gemini
+- I asked Gemini to help me debug a component for its error and assist me find a way to link "Today's Special" display to its vendor.
+- I kept its suggestion of how the code should be as it is more organised.
+- The AI didn't get anything wrong—but it recommends a code longer than it is necessary.
