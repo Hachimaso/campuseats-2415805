@@ -9,7 +9,7 @@
       {
         "id": "2415805-s1",
         "name": "Nasi Goreng Kampung",
-        "description": "...",
+        "description": "A classic at Siddiq",
         "price": 6.5,
         "category": "Rice",
         "available": true
@@ -17,6 +17,7 @@
       {
         "id": "2415805-s2-Naz",
         "name": "Naz's Nasi Ayam Special",
+        "description": "A special to die for",
         "price": 8.5,
         "category": "Rice",
         "popular": true,
@@ -26,7 +27,7 @@
       {
         "id": "2415805-s3",
         "name": "Nasi Goreng Pattaya",
-        "description": "...",
+        "description": "Special sauce on the side",
         "price": 7,
         "category": "Rice",
         "available": true
@@ -34,7 +35,7 @@
       {
         "id": "2415805-a1",
         "name": "Ice Lemon Tea",
-        "description": "...",
+        "description": "Refreshing lemon tea with ice",
         "price": 2,
         "category": "Drinks",
         "available": true
@@ -42,7 +43,7 @@
       {
         "id": "2415805-a2",
         "name": "Rootbeer Float",
-        "description": "Macam A&W",
+        "description": "Like A&W",
         "price": 3.5,
         "category": "Drinks",
         "available": true
@@ -50,7 +51,7 @@
       {
         "id": "2415805-a3",
         "name": "Iced Coffee",
-        "description": "...",
+        "description": "Cold coffee with ice",
         "price": 2,
         "category": "Drinks",
         "available": true
@@ -58,7 +59,7 @@
       {
         "id": "2415805-m1",
         "name": "Mee Tarik",
-        "description": "...",
+        "description": "A traditional Malaysian milk noodle soup",
         "price": 6.5,
         "category": "Noodles",
         "available": true
@@ -66,7 +67,7 @@
       {
         "id": "2415805-m2",
         "name": "Mee Goreng Mamak",
-        "description": "...",
+        "description": "A popular Malaysian fried noodle dish",
         "price": 6,
         "category": "Noodles",
         "available": true
