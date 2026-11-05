@@ -17,9 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # Vendors Used
-- Vendor #1 Example Vendor
-- Vendor #2 Example Vendor
-- Vendor #3 My Vendor (2415805) (Nazhan)
-- Vendor #4 Afham's Vendor (2410997)
-- Vendor #5 Eimaan's Vendor (2413081)
-- Vendor #6 Faiz's Vendor (2412663)
+- Vendor #1 My Vendor (2415805) (Nazhan)
+- Vendor #2 Afham's Vendor (2410997)
+- Vendor #3 Eimaan's Vendor (2413081)
+- Vendor #4 Faiz's Vendor (2412663)
